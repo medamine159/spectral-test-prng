@@ -1,6 +1,5 @@
 # Spectral Test of PRNGs in 2D and 3D
-
-This project visualizes the **spectral properties** of different pseudo-random number generators:
+In the context of a course i took in telecom Paris about Probabilistic Models and Machine Learning, we tackled the topic of numerical simulation where we talked about random generations,i treid to visualizes the **spectral properties** of different pseudo-random number generators:
 
 - Linear Congruential Generator (LCG)
 - RANDU (infamous bad LCG)
